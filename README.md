@@ -33,5 +33,6 @@
 * python3 predict.py
 
 # 4.检测结果
+![Figure_1](https://github.com/TRQ-UP/onnx-swin-transformer/assets/37291715/ddbb7829-6915-412c-bf11-bd54f47babe4)
 
-<img title="" src="file:///home/trq/桌面/Figure_1.png" alt="Figure_1.png" width="494">
+
